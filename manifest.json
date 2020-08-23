@@ -1,0 +1,49 @@
+{
+    "name": "Kueku",
+    "short_name": "Kueku",
+    "description": "Aplikasi tentang info kue",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#9E9D24",
+    "theme_color": "#9E9D24",
+    "icons": [
+        {
+            "src": "/images/icon/icon-32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon/icon-64.png",
+            "sizes": "64x64",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon/icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/images/icon/icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+        ,
+        {
+            "src": "/images/icon/icon.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+        ,
+          {
+            "src": "/images/icon/maskable_icon.png",
+            "sizes": "640x640",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+body {
+  font-family: 'Dancing Script', cursive; }
+
+img {
+  display: block;
+  height: auto;
+  max-width: 60% !important;
+  margin: 0 auto; }
+
+p {
+  text-align: justify; }
+
+/*# sourceMappingURL=style.css.map */
